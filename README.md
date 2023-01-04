@@ -24,3 +24,7 @@ I'm Cristopher Palacios a Software Engineer and a Soccer/food fan. I Spend most 
 [![Mongo Badge](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&labelColor=47A248&logo=mongodb&logoColor=white)](#)
 [![Ruby Badge](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&labelColor=CC0000&logo=ruby&logoColor=white)](#)
 [![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&labelColor=0052CC&logo=bitbucket&logoColor=white)](#)
+
+
+#### Extras
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/186JRWh6px__mARDWemX9LqC8gp9GrKvX/view?usp=sharing)
