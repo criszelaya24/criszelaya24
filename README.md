@@ -1,6 +1,6 @@
 ## Hi I'm Cristopher <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Cristopher Palacios a Software Engineer and a Soccer and food fan. I Spend most of time coding internal complex projects from privates company and playing soccer when I can!
+I'm Cristopher Palacios a Software Engineer and a Soccer/food fan. I Spend most of time coding internal complex projects from privates company and playing soccer when I can!
 
 :mailbox: Reach me out!
 
@@ -8,6 +8,6 @@ I'm Cristopher Palacios a Software Engineer and a Soccer and food fan. I Spend m
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @tivify.
+- 🔭 I’m currently working at [tivify](https://tivify.tv).
 - 🤔 I’m looking to contribute to the community with my short experience.
 - ⚡ Fun fact: I play video games often and soccer as well.
