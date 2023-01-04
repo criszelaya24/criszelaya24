@@ -6,8 +6,12 @@ I'm Cristopher Palacios a Software Engineer and a Soccer/food fan. I Spend most 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cristopher-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-palacios-zelaya-367a1a127/) [![Mail Badge](https://img.shields.io/badge/-@criszelaya24-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/criszelaya24/) [![Mail Badge](https://img.shields.io/badge/-criszelaya24-0078D4?style=flat&labelColor=0078D4&logo=microsoftoutlook&logoColor=white)](mailto:criszelaya24@hotmail.com)
 
-<!-- TODO: Add last video link -->
-
 - 🔭 I’m currently working at [tivify](https://tivify.tv).
 - 🤔 I’m looking to contribute to the community with my short experience.
 - ⚡ Fun fact: I play video games often and soccer as well.
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Serverless Badge](https://img.shields.io/badge/-serverless-FD5750?style=for-the-badge&labelColor=black&logo=serverless&logoColor=FD5750)](#) [![AWS Badge](https://img.shields.io/badge/-aws-232F3E?style=for-the-badge&labelColor=232F3E&logo=amazonaws&logoColor=white)](#) [![Mongo Badge](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&labelColor=47A248&logo=mongodb&logoColor=white)](#) [![Ruby Badge](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&labelColor=CC0000&logo=ruby&logoColor=white)](#) [![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=C21325&logo=jest&logoColor=white)](#)
