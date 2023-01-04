@@ -27,5 +27,5 @@ I'm Cristopher Palacios, Software Engineer and a Soccer/food fan. I Spend most o
 
 
 #### Extras
-- 📎 [My Resume/CV](https://drive.google.com/file/d/186JRWh6px__mARDWemX9LqC8gp9GrKvX/view?usp=sharing)
+- 📎 [My Resume/CV](https://drive.google.com/file/d/1oSZHwKpBE250eM4LujUjCNhBqdalcR3N/view?usp=sharing)
 - 💻 [Personal Projects](https://github.com/criszelaya24/cv#Projects)
