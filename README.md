@@ -29,11 +29,11 @@ I'm Cristopher Palacios, Software Engineer and a Soccer/food fan. I Spend most o
 [![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&labelColor=black&logo=bitbucket&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=black&logo=express&logoColor=2361DAFB)](#)
 [![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&labelColor=black&logo=JSON%20web%20tokens&logoColor=pink)](#)
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=23000000)](#)<br >
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=23000000)](#) <br >
 [![YARN](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=232C8EBB)](#)
 [![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&labelColor=black&logo=confluence&logoColor=0052CC)](#)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&labelColor=black&logo=jira&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=230db7ed)](#)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=230db7ed)](#) <br >
 [![Eslint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&labelColor=black&logo=eslint&logoColor=4B3263)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](#)
 [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&labelColor=black&logo=swagger&logoColor=white)](#)
