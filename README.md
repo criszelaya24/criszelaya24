@@ -7,7 +7,7 @@ I'm Cristopher Palacios, Software Engineer and a Soccer/food fan. I Spend most o
 [![Linkedin Badge](https://img.shields.io/badge/-Cristopher-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-palacios-zelaya-367a1a127/) [![Mail Badge](https://img.shields.io/badge/-@criszelaya24-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/criszelaya24/) [![Mail Badge](https://img.shields.io/badge/-criszelaya24-0078D4?style=flat&labelColor=0078D4&logo=microsoftoutlook&logoColor=white)](mailto:criszelaya24@hotmail.com)
 
 - 🔭 I’m currently working at [Tvup Telecom](https://tvup.media/en/homepage/).
-- 🤔 I’m looking to contribute to the community with my short experience.
+- 🤔 I’m looking to contribute to the community with my experience.
 - ⚡ Fun fact: I play video games often and soccer as well.
 
 #### Top Technologies
